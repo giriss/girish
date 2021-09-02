@@ -893,7 +893,7 @@ button:focus {
   opacity: 0.8;
 }
 
-.white-vertion .mh-home .mh-header-info .social-icon li .fa:hover {
+.white-vertion .mh-home .mh-header-info .social-icon li .fab:hover {
   background-color: #000;
 }
 
@@ -1129,7 +1129,7 @@ button:focus {
   background-color: rgba(0, 0, 0, 0.9);
 }
 
-.dark-vertion .mh-home .mh-header-info .social-icon li .fa:hover {
+.dark-vertion .mh-home .mh-header-info .social-icon li .fab:hover {
   background-color: #fff;
 }
 
@@ -1562,7 +1562,7 @@ li .fa {
   display: inline-block;
 }
 
-.mh-home .mh-header-info ul li:hover .fa {
+.mh-home .mh-header-info ul li:hover .fa, .mh-home .mh-header-info ul li:hover .fab {
   color: #0bceaf;
 }
 
@@ -1570,7 +1570,7 @@ li .fa {
   margin-top: 0;
 }
 
-.mh-home .mh-header-info .social-icon li .fa {
+.mh-home .mh-header-info .social-icon li .fab {
   font-size: 18px;
   line-height: 30px;
   padding: 4px 14px;
@@ -1580,7 +1580,7 @@ li .fa {
   border-radius: 3px;
 }
 
-.mh-home .mh-header-info .social-icon li .fa:hover {
+.mh-home .mh-header-info .social-icon li .fab:hover {
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }

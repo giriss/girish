@@ -3399,6 +3399,7 @@ li .fa {
 .mh-service .mh-service-item {
   padding: 20px;
   border-radius: 4px;
+  height: 100%;
 }
 
 .mh-service .mh-service-item .fa {
